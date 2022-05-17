@@ -1,1 +1,2 @@
-config: "1234"
+config:
+  name: hahaha
